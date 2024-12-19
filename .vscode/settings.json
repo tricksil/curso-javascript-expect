@@ -1,0 +1,35 @@
+{
+
+  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+  // Aplica um sinal visual na esquerda da linha selecionada
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.defaultProfile.windows": "zsh",
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": false,
+  "editor.colorDecorators": false,
+  "editor.autoClosingBrackets": "languageDefined",
+  "editor.autoClosingQuotes": "languageDefined",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "selection",
+  "editor.bracketPairColorization.enabled": false,
+  "terminal.integrated.fontSize": 16,
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+    "*.js": "javascript",
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true
+}

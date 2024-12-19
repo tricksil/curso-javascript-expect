@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test:dev": "npx mocha -w --parallel test/*.test.js",
+    "test": "npx mocha --parallel test/*.test.js",
+    "test:cov": "npx c8 npx mocha --exit --parallel test/*.test.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "c8": "^10.1.2",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "safe-regex": "^2.1.1"
+  }
+}

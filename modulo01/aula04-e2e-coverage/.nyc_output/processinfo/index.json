@@ -1,0 +1,1 @@
+{"processes":{"4113f9e2-cc63-4f5a-8eb4-70127baaeccc":{"parent":null,"children":["5e438ba5-743c-44f2-829e-c885b8ba7eb0"]},"5e438ba5-743c-44f2-829e-c885b8ba7eb0":{"parent":"4113f9e2-cc63-4f5a-8eb4-70127baaeccc","children":[]}},"files":{"/home/trick/curso-javascript-expect/modulo01/aula04-e2e-coverage/src/api.js":["5e438ba5-743c-44f2-829e-c885b8ba7eb0"]},"externalIds":{}}

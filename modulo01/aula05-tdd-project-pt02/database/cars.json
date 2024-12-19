@@ -1,0 +1,23 @@
+[
+  {
+    "id": "397fe3c6-7bc3-431b-9bc2-23e915511c6e",
+    "name": "Model S",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9b3b062b-c069-48a4-b5ed-ce0ff0e79435",
+    "name": "Colorado",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "13a741cf-351d-4d5c-8740-1557fe6472d5",
+    "name": "Escalade",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  }
+]
